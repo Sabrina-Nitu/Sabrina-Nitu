@@ -1,115 +1,120 @@
 <div align="center">
 
-# 👋 Hi there, I'm Sabrina Afroz Nitu!
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Sabrina%20Afroz%20Nitu&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Product%20UX%20Designer%20%7C%20UX%20Researcher%20%7C%20Front-End%20Developer&descAlignY=58&descSize=18"/>
 
-### ✨ *Product UX Designer | UX Researcher | Front-End Developer* ✨
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=B983FF&center=true&vCenter=true&width=700&lines=Designing+with+Intent+%F0%9F%8E%A8;Researching+with+Precision+%F0%9F%94%AC;UX+%C3%97+Deep+Learning+%2B+Image+Processing;Turning+Data+into+Design%2C+and+Design+into+Impact)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Product+UX+Designer;UX+Researcher;Deep+Learning+%26+Image+Processing;Front-End+Developer)
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
 
 </div>
 
----
+<br>
 
-## 🌟 About Me
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=1&section=header"/>
 
-🔭 **Currently Working On:**
-- Designing **Calmi**, a mental wellness app, from research through high-fidelity prototype in Figma.
+## 🌌 About Me
 
-🔬 **Research Focus:**
-- Co-author of *"Automated Animal Disease Detection Using Deep Learning and Image Processing"* — a B.Sc. thesis combining deep learning, transfer learning, and explainability-guided segmentation.
+```yaml
+name: Sabrina Afroz Nitu
+role: [Product UX Designer, UX Researcher, Front-End Developer]
+location: Chittagong, Bangladesh
+currently_building: "Calmi — a mental wellness app (Figma, research → prototype)"
+currently_researching: "Deep Learning & Image Processing for disease detection"
+philosophy: "Good research first, clean interfaces second — always aiming for both."
+```
 
-🌱 **Focused on Learning:**
-- Design systems, advanced Figma prototyping, and front-end implementation of research-backed interfaces.
+🔭 **Currently Working On** — Designing **Calmi**, a mental wellness app, from research through high-fidelity prototype in Figma
+🔬 **Research Focus** — Co-author, *"Automated Animal Disease Detection Using Deep Learning and Image Processing"*
+🌱 **Learning** — Design systems, advanced Figma prototyping, and front-end implementation of research-backed interfaces
+💬 **Ask Me About** — UX Research · Prototyping · Usability Testing · Front-End Dev · Deep Learning for Image Processing
+👯 **Open To** — UX case studies, research-driven design work, open-source front-end projects
 
-💬 **Ask Me About:**
-- Product UX & Prototyping
-- UX Research & Usability Testing
-- Front-End Web Development
-- Deep Learning for Image Processing
-
-👯 **Collaborations:**
-- Open to UX case studies, research-driven design work, and open-source front-end projects.
-
-⚡ **Fun Fact:**
-- Good research first, clean interfaces second — but I always aim for both.
-
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=1&section=header"/>
 
 ## 🔬 Featured Research
 
-**Automated Animal Disease Detection Using Deep Learning and Image Processing**
-B.Sc. Thesis, Dept. of CSE, International Islamic University Chittagong (2026)
+<div align="center">
+<table>
+<tr>
+<td width="100%">
+
+### 🧬 Automated Animal Disease Detection Using Deep Learning and Image Processing
+**B.Sc. Thesis** · Dept. of CSE, International Islamic University Chittagong (2026)
 Supervisor: Mr. Mohammad Mahadi Hassan
 
-- Curated a dataset of 8,682 images across 7 disease/healthy classes in cattle & poultry
-- Benchmarked EfficientNetV2B0, ResNet50, DenseNet121, MobileNetV3Large, YOLOv8n-cls
-- Best model: **ResNet50 — 96.55% accuracy, 99.92% macro-ROC-AUC**
-- Applied Grad-CAM explainability → pseudo-masks → ResNet50-U-Net segmentation
-- Tools: TensorFlow/Keras, OpenCV, scikit-learn, Google Colab
+| Metric | Result |
+|:---|:---:|
+| Dataset | 8,682 images · 7 classes (cattle & poultry) |
+| Best Model | ResNet50 |
+| Accuracy | **96.55%** |
+| Macro F1-score | 95.84% |
+| Macro-ROC-AUC | **99.92%** |
+| Segmentation (Dice) | 70.05% |
 
----
+**Pipeline:** Transfer Learning (EfficientNetV2B0, ResNet50, DenseNet121, MobileNetV3Large, YOLOv8n-cls) → Grad-CAM Explainability → Pseudo-Masks → ResNet50-U-Net Segmentation
 
-## 📫 Connect with Me
+`TensorFlow/Keras` `OpenCV` `scikit-learn` `Google Colab` `Grad-CAM`
 
-🌐 **LinkedIn:** [Sabrina Afroz Nitu](#)
-🎨 **Behance:** [Sabrina Afroz Nitu](#)
-💻 **GitHub:** [Your GitHub Portfolio](#)
-📧 **Email:** [sabrinac223241@gmail.com](mailto:sabrinac223241@gmail.com)
-📍 **Location:** Chittagong, Bangladesh
+</td>
+</tr>
+</table>
+</div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=1&section=header"/>
 
 ## 🚀 Tools & Technologies
 
-**Programming Languages**
+<div align="center">
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+**Programming Languages**
+<br>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript&theme=dark" />
 
 **Web**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<br>
+<img src="https://skillicons.dev/icons?i=html,css&theme=dark" />
 
 **Databases**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+<br>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
 
 **Tools & IDEs**
+<br>
+<img src="https://skillicons.dev/icons?i=vscode,androidstudio,git,github&theme=dark" />
 
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-
-**Design Tools**
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+**Design**
+<br>
+<img src="https://skillicons.dev/icons?i=figma&theme=dark" />
 
 **ML / DL Stack**
+<br>
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv,sklearn&theme=dark" />
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+</div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=1&section=header"/>
 
 ## 🎨 Selected Projects
 
 | Project | Description |
 |---|---|
-| **Calmi** *(Ongoing)* | Mental wellness app — research-led UX for stress & mood tracking |
-| **Travel Booking Website** | End-to-end booking flow with responsive, modern UI/UX |
-| **Kick Hub** | Sneaker shopping app prototype with theme variations |
-| **Perfume E-Commerce Website** | Premium storefront with elegant typography |
-| **Online Pet Shop Website** | Responsive platform (HTML/CSS/JS) with dashboards & login |
-| **TermDoge** | Terminal-based dodging game in Python (curses) |
+| 🌙 **Calmi** *(Ongoing)* | Mental wellness app — research-led UX for stress & mood tracking |
+| ✈️ **Travel Booking Website** | End-to-end booking flow with responsive, modern UI/UX |
+| 👟 **Kick Hub** | Sneaker shopping app prototype with theme variations |
+| 🌸 **Perfume E-Commerce Website** | Premium storefront with elegant typography |
+| 🐾 **Online Pet Shop Website** | Responsive platform (HTML/CSS/JS) with dashboards & login |
+| 🎮 **TermDoge** | Terminal-based dodging game in Python (curses) |
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=1&section=header"/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=B983FF&icon_color=B983FF&text_color=ffffff" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0f0c29&ring=B983FF&fire=B983FF&currStreakLabel=B983FF" width="48%" />
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=1&section=header"/>
 
 ## 🏆 Achievements
 
@@ -117,15 +122,23 @@ Supervisor: Mr. Mohammad Mahadi Hassan
 - 🌟 Exceptional Contribution Award 2024 — IEEE ComSoc IIUC Student Branch Chapter
 - 🏅 Champion — Meta Com Quiz Challenge (Decode the IEEE Communication Magazine)
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=1&section=header"/>
+
+## 📫 Connect with Me
 
 <div align="center">
 
-## 🌍 Let's Build Together!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](#)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sabrinac223241@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](#)
 
-💡 Have an idea, a research question, or a project worth designing around?
-Let's create something extraordinary — feel free to reach out!
+📍 Chittagong, Bangladesh
 
-✨ *Designed with intent. Backed by research.* ✨
+</div>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer"/>
+
+<div align="center">
+<i>✨ Designed with intent. Backed by research. ✨</i>
 </div>
