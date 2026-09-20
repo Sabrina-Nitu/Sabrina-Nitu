@@ -1,24 +1,129 @@
-# 💫 About Me:
-## About Me<br><br>🔭 I'm currently working on **Calmi** — a mental wellness app, designing it end-to-end in Figma<br><br>👯 I'm looking to collaborate on UX case studies and research-driven design projects<br><br>🤝 I'm looking for help with real-world usability testing and front-end implementation of my designs<br><br>🌱 I'm currently learning design systems and advanced Figma prototyping<br><br>💬 Ask me about UX Research · Prototyping · Deep Learning for Image Processing · Front-End Dev<br><br>⚡ Fun fact: my B.Sc. thesis used deep learning to detect animal diseases from images  — now I bring that same research mindset into UX
+<div align="center">
 
+# Sabrina Afroz Nitu
 
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/sabrinanitu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sabrina-afroz-nitu-9a3705335/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Sabrina Afroz Nitu) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sabrinac223241@gmail.com) 
+**Product UX Designer | UX Researcher | Front-End Developer**
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Sabrina-Nitu&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Sabrina-Nitu&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sabrina-Nitu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Chittagong, Bangladesh
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+[![Behance](https://img.shields.io/badge/Behance-1769FF?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/sabrinanitu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabrina-afroz-nitu-9a3705335/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sabrinac223241@gmail.com)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Sabrina-Nitu&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Sabrina-Nitu&icon=0&color=9)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About Me
+
+I design digital products that balance usability, structure, and visual clarity — and back that design work with research when a problem needs more than intuition. My B.Sc. thesis applied deep learning to detect animal diseases from images, and I bring that same evidence-based approach into UX.
+
+- 🔭 Currently working on **Calmi**, a mental wellness app — designed end-to-end in Figma
+- 👯 Looking to collaborate on UX case studies and research-driven design projects
+- 🤝 Looking for help with real-world usability testing and front-end implementation of my designs
+- 🌱 Currently learning design systems and advanced Figma prototyping
+- 💬 Ask me about UX Research, Prototyping, Deep Learning for Image Processing, Front-End Development
+- ⚡ Fun fact: my thesis on deep learning-based animal disease detection reached 96.55% accuracy
+
+**Background:** B.Sc. in Computer Science and Engineering, International Islamic University Chittagong. UX Design training under the EDGE Project (Bangladesh Computer Council, ICT Division), delivered by the CSE Department at CUET.
+
+---
+
+## Featured Research
+
+**Automated Animal Disease Detection Using Deep Learning and Image Processing**
+B.Sc. Thesis, Dept. of CSE, International Islamic University Chittagong (2026)
+Supervisor: Mr. Mohammad Mahadi Hassan
+
+| Metric | Result |
+|---|:---:|
+| Dataset | 8,682 images across 7 classes (cattle & poultry) |
+| Best model | ResNet50 |
+| Accuracy | 96.55% |
+| Macro F1-score | 95.84% |
+| Macro-ROC-AUC | 99.92% |
+| Segmentation (Dice) | 70.05% |
+
+Pipeline: benchmarked five transfer-learning architectures (EfficientNetV2B0, ResNet50, DenseNet121, MobileNetV3Large, YOLOv8n-cls), then applied Grad-CAM explainability to generate pseudo-masks and trained a ResNet50-U-Net segmentation model.
+
+`TensorFlow/Keras` `OpenCV` `scikit-learn` `NumPy` `Pandas` `Matplotlib` `Google Colab`
+
+---
+
+## Core Competencies
+
+| Category | Skills |
+|---|---|
+| Programming | C, C++, Python, Java, JavaScript |
+| Web Development | HTML, CSS, JavaScript |
+| Databases | MySQL, MongoDB |
+| UX & Design | Figma, Wireframing, Prototyping, User Flows, Usability Testing |
+| ML / DL | TensorFlow, Keras, scikit-learn, NumPy, Pandas, Matplotlib |
+| Tools | VS Code, Android Studio, Git, GitHub, Google Colab |
+
+---
+
+## Selected Projects
+
+**Calmi** *(In Progress)*
+Mental wellness app — research-driven UX for stress and mood tracking, designed in Figma.
+
+**Travel Booking Website**
+End-to-end booking flow with responsive layouts and modern UI/UX patterns.
+
+**Kick Hub**
+Sneaker shopping app prototype with product browsing, detail pages, and multiple theme variations.
+
+**Perfume E-Commerce Website**
+Premium storefront concept focused on product showcase and elegant typography.
+
+**Online Pet Shop Website**
+Responsive web platform (HTML, CSS, JavaScript) with user and admin dashboards, login system, and service booking.
+
+**TermDoge**
+Terminal-based dodging game built in Python (curses), with scoring, lives, levels, and high-score saving.
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![Sabrina's GitHub stats](https://github-readme-stats.shion.dev/api?username=Sabrina-Nitu&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Sabrina-Nitu&theme=dark&hide_border=false)
+
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Sabrina-Nitu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+</div>
+
+---
+
+## Achievements
+
+- Best Volunteer Award — ROVERX, IEEE Student Branch Chapter (2025)
+- Exceptional Contribution Award 2024 — IEEE ComSoc IIUC Student Branch Chapter
+- Champion — Meta Com Quiz Challenge (Decode the IEEE Communication Magazine)
+
+---
+
+## Leadership & Community Involvement
+
+- Secretary (Technical) & Program Coordinator — IEEE ComSoc IIUC Student Branch Chapter
+- Program Convener — IEEE IIUC WIE Affinity Group
+- Photography Executive — IIUC Computer Club
+- Volunteer — International Conference on Innovations in Science, Engineering, and Technology
+
+---
+
+<div align="center">
+
+Feel free to reach out for collaborations, UX case studies, or research-driven design work.
+
+[![Behance](https://img.shields.io/badge/Behance-1769FF?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/sabrinanitu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabrina-afroz-nitu-9a3705335/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sabrinac223241@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Sabrina-Nitu&color=grey&style=flat-square)
+
+</div>
