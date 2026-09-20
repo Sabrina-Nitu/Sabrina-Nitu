@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Sabrina%20Afroz%20Nitu&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Product%20UX%20Designer%20%7C%20UX%20Researcher%20%7C%20Front-End%20Developer&descAlignY=58&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:2f2f2f,100:1a1a1a&height=250&section=header&text=Sabrina%20Afroz%20Nitu&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Product%20UX%20Designer%20%7C%20UX%20Researcher%20%7C%20Front-End%20Developer&descAlignY=55&descSize=18"/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=B983FF&center=true&vCenter=true&width=700&lines=Designing+with+Intent+%F0%9F%8E%A8;Researching+with+Precision+%F0%9F%94%AC;UX+%C3%97+Deep+Learning+%2B+Image+Processing;Turning+Data+into+Design%2C+and+Design+into+Impact)
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="180">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=2E2E2E&center=true&vCenter=true&width=700&lines=Black+%26+White+Thinking%2C+Full-Color+Execution+%F0%9F%90%BC;Designing+with+Intent+%F0%9F%8E%A8;Researching+with+Precision+%F0%9F%94%AC;UX+%C3%97+Deep+Learning+%2B+Image+Processing)
 
 </div>
 
@@ -12,7 +12,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=1&section=header"/>
 
-## 🌌 About Me
+## 🐼 About Me
 
 ```yaml
 name: Sabrina Afroz Nitu
@@ -20,7 +20,7 @@ role: [Product UX Designer, UX Researcher, Front-End Developer]
 location: Chittagong, Bangladesh
 currently_building: "Calmi — a mental wellness app (Figma, research → prototype)"
 currently_researching: "Deep Learning & Image Processing for disease detection"
-philosophy: "Good research first, clean interfaces second — always aiming for both."
+philosophy: "Calm on the outside, sharp on the inside — like a panda."
 ```
 
 🔭 **Currently Working On** — Designing **Calmi**, a mental wellness app, from research through high-fidelity prototype in Figma
@@ -28,6 +28,7 @@ philosophy: "Good research first, clean interfaces second — always aiming for 
 🌱 **Learning** — Design systems, advanced Figma prototyping, and front-end implementation of research-backed interfaces
 💬 **Ask Me About** — UX Research · Prototyping · Usability Testing · Front-End Dev · Deep Learning for Image Processing
 👯 **Open To** — UX case studies, research-driven design work, open-source front-end projects
+🎋 **Fun Fact** — Bamboo-level focus when I'm designing or debugging.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=1&section=header"/>
 
@@ -110,8 +111,8 @@ Supervisor: Mr. Mohammad Mahadi Hassan
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=B983FF&icon_color=B983FF&text_color=ffffff" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0f0c29&ring=B983FF&fire=B983FF&currStreakLabel=B983FF" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=1a1a1a&title_color=ffffff&icon_color=ffffff&text_color=cfcfcf" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&background=1a1a1a&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" width="48%" />
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=1&section=header"/>
@@ -128,17 +129,17 @@ Supervisor: Mr. Mohammad Mahadi Hassan
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](#)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sabrinac223241@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Behance](https://img.shields.io/badge/Behance-000000?style=for-the-badge&logo=behance&logoColor=white)](#)
+[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sabrinac223241@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](#)
 
 📍 Chittagong, Bangladesh
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:2f2f2f,100:1a1a1a&height=150&section=footer"/>
 
 <div align="center">
-<i>✨ Designed with intent. Backed by research. ✨</i>
+<i>🐼 Designed with intent. Backed by research. 🐼</i>
 </div>
